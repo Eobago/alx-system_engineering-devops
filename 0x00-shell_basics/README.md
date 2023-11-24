@@ -1,1 +1,1 @@
-Shell base script
+This is a shell basics repo
